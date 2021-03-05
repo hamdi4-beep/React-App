@@ -1,0 +1,7 @@
+{
+    "blogs": [
+        { "title": "Ten Thousand Hands", "author": "Ani", "id": 1},
+        { "title": "The Golden Desert", "author": "Austin", "id": 2},
+        { "title": "Fury of Wind", "author": "Hamdi Kamel", "id": 3}
+    ]
+}
